@@ -3,6 +3,15 @@
     <channel>
         <title>Hoy</title>
         <item>
+            <title>Hoy 1.0 (17)</title>
+            <pubDate>Sun, 25 Oct 2026 09:08:11 +0000</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Notes, rethought: write straight onto a styled page, file notes with #tags (nest them with #parent/child), a formatting bar, tag suggestions as you type, and tags, list and note side by side on the Mac. Capture also gets a roomy box for writing notes.</p>]]></description>
+            <enclosure url="https://github.com/Jason9347/hoy-releases/releases/download/v1.0-17/Hoy-1.0-17.dmg" type="application/octet-stream" sparkle:edSignature="N0DdFFxQZJKbt9q14DpwwWedtQoIv8mb29ctjvmBHS1d6M9SiTKrVpCLEpRotwhHJBJySyRHhmwUCBtLjQsmCw==" length="4727659"/>
+        </item>
+        <item>
             <title>Hoy 1.0 (16)</title>
             <pubDate>Sat, 24 Oct 2026 19:03:25 +0000</pubDate>
             <sparkle:version>16</sparkle:version>
