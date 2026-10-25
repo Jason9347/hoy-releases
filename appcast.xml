@@ -3,6 +3,15 @@
     <channel>
         <title>Hoy</title>
         <item>
+            <title>Hoy 1.0 (22)</title>
+            <pubDate>Sun, 25 Oct 2026 21:53:11 +0000</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Agenda widget (day list, up next, and a strip of days), and the note title cursor now lines up.</p>]]></description>
+            <enclosure url="https://github.com/Jason9347/hoy-releases/releases/download/v1.0-22/Hoy-1.0-22.dmg" type="application/octet-stream" sparkle:edSignature="GklRX4H1W73vb0OKkBMj259GQJrVwfgm5K2Rai3IFNQ2E+libOHnG5Y4nRAhqAGoAWb9TLqn7cwPlsUrW59/Bg==" length="5191067"/>
+        </item>
+        <item>
             <title>Hoy 1.0 (21)</title>
             <pubDate>Sun, 25 Oct 2026 19:59:10 +0000</pubDate>
             <sparkle:version>21</sparkle:version>
