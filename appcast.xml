@@ -3,6 +3,15 @@
     <channel>
         <title>Hoy</title>
         <item>
+            <title>Hoy 1.0 (18)</title>
+            <pubDate>Sun, 25 Oct 2026 10:51:29 +0000</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Notebooks: make your own (YouTube, Recipes, anything), put notebooks inside notebooks, give each an icon, and fold them open in the sidebar. On the Mac, all the navigation now sits in the left column, notes in the middle and the note on the right. The open note gets a softer red ribbon instead of a box.</p>]]></description>
+            <enclosure url="https://github.com/Jason9347/hoy-releases/releases/download/v1.0-18/Hoy-1.0-18.dmg" type="application/octet-stream" sparkle:edSignature="U96zVrnylvtWyNEbBPnt8zpXSwHImov1LGE3dpv/5lqbLLw/XICdOf/z9v5tvswtN10+NqCDg5GxxgJfkvUGBw==" length="4792474"/>
+        </item>
+        <item>
             <title>Hoy 1.0 (17)</title>
             <pubDate>Sun, 25 Oct 2026 09:08:11 +0000</pubDate>
             <sparkle:version>17</sparkle:version>
