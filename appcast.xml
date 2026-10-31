@@ -3,6 +3,15 @@
     <channel>
         <title>Hoy</title>
         <item>
+            <title>Hoy 1.0 (30)</title>
+            <pubDate>Sat, 31 Oct 2026 13:52:07 +0000</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Improvements and fixes.</p>]]></description>
+            <enclosure url="https://github.com/Jason9347/hoy-releases/releases/download/v1.0-30/Hoy-1.0-30.dmg" type="application/octet-stream" sparkle:edSignature="l94+56gYWcbIW0NOQzSOM03JHWtp8lsqjpb6Ks3D/QtrR6CEHTiS2cOu59bupFnbzLVUr9tQ5QS5aMubn6O4Bg==" length="5489064"/>
+        </item>
+        <item>
             <title>Hoy 1.0 (29)</title>
             <pubDate>Thu, 29 Oct 2026 07:01:19 +0000</pubDate>
             <sparkle:version>29</sparkle:version>
